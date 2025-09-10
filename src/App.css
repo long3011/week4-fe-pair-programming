@@ -674,7 +674,7 @@ min-height:calc(100vh - 62px);
   padding: 20px;
   border: 2px solid #ccc;
   border-radius: 12px;
-  background: #f27e7e;
+  background: #3b89ce;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
@@ -719,7 +719,7 @@ textarea {
 
 button {
   padding: 12px;
-  background: #007bff;
+  background: #0fdc53;
   color: white;
   border: none;
   border-radius: 8px;
